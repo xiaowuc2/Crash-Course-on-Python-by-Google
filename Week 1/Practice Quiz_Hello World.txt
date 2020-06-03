@@ -1,2 +1,9 @@
 Practice Quiz: Hello World
 
+1. What are functions in Python?
+Functions are pieces of code that perform a unit of work.
+
+2. What are keywords in Python?
+Keywords are reserved words that are used to construct instructions.
+
+
