@@ -2,7 +2,8 @@
 The friends decide to split the bill evenly between them,
 after adding 15% tip for the service. Calculate the tip, the total amount to pay, and each friend's share,
 then output a message saying "Each person needs to pay: " followed by the resulting number.
->bill = 47.28
+>
+bill = 47.28
 tip = (bill * 15)/100
 total = bill + tip
 share = total/2
@@ -17,7 +18,8 @@ result = numerator / denominator
 print(int(result))
 
 3. Combine the variables to display the sentence "How do you like Python so far?"
->word1 = "How"
+>
+word1 = "How"
 word2 = "do"
 word3 = "you"
 word4 = "like"
@@ -28,7 +30,8 @@ print(word1 +" "+ word2+ " " + word3+ " " + word4 + " " + word5+ " " + word6 + "
 
 4. This code is supposed to display "2 + 2 = 4" on the screen, but there is an error. 
 Find the error in the code and fix it, so that the output is correct.
->print("2 + 2 = " + str(2 + 2))
+>
+print("2 + 2 = " + str(2 + 2))
 
 5. What do you call a combination of numbers, symbols, or other values that produce a result when evaluated?
 >An expression
