@@ -36,3 +36,4 @@ A file made up of 4097 bytes will use 4096*2=8192 bytes of storage. Knowing this
 can you fill in the gaps in the calculate_storage function below,
 which calculates the total number of bytes needed to store a file of a given size?
 >
+
