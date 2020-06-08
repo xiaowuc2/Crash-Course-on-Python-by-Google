@@ -31,4 +31,7 @@ Fill in the blank to make this happen.
 8. What’s the output of this code?
 > 10
 
-9. 
+9. What's the value of this Python expression? ((10 >= 5*2) and (10 <= 5*2))
+> True
+
+10. 
