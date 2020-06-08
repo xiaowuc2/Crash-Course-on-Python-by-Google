@@ -2,3 +2,9 @@
 then prints its hexadecimal value. Currently, it only supports the three additive primary colors (red, green, blue), 
 so it returns "unknown" for all other colors
 >
+
+2. What's the value of this Python expression: "big" > "small"
+> False
+
+3. What is the elif keyword used for?
+> 
