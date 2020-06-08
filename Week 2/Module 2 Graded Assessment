@@ -13,3 +13,8 @@ so it returns "unknown" for all other colors
 For lower scores, the grade is "Fail". In addition,
 scores above 95 (not included) are graded as "Top Score". Fill in this function so that it returns the proper grade.
 >
+
+5. What's the value of this Python expression: 11 % 5?
+> 1
+
+6. 
