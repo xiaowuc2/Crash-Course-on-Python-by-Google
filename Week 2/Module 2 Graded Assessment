@@ -17,4 +17,18 @@ scores above 95 (not included) are graded as "Top Score". Fill in this function 
 5. What's the value of this Python expression: 11 % 5?
 > 1
 
-6. 
+6. Complete the body of the format_name function. This function receives the first_name and last_name parameters
+and then returns a properly formatted string.
+
+Specifically:
+If both the last_name and the first_name parameters are supplied, the function should return like so:
+>
+
+7. The longest_word function is used to compare 3 words. It should return the word with the most number of characters (and the first in the list when they have the same length). 
+Fill in the blank to make this happen.
+> 
+
+8. What’s the output of this code?
+> 10
+
+9. 
