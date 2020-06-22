@@ -1,5 +1,5 @@
 1. What are while loops in Python?
-> 
+> While loops let the computer execute a set of instructions while a condition is true.
 
 2. Fill in the blanks to make the print_prime_factors function print all the prime factors of a number. A prime factor is a number that is prime and divides another without a remainder
 >
